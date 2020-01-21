@@ -1,0 +1,6 @@
+/dist
+/dist.old
+/build
+/brainfrick.egg-info
+pypi
+__pycache__
