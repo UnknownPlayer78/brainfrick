@@ -4,3 +4,4 @@
 /brainfrick.egg-info
 pypi
 __pycache__
+*.pyc
